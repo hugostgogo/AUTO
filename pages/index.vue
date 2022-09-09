@@ -4,9 +4,9 @@ definePageMeta({
 </script>
 
 <template>
-    <div class="home">
-        HOME
-    </div>
+    <Page title="Home">
+        OUI
+    </Page>
 </template>
 
 <style lang="scss" scoped>
