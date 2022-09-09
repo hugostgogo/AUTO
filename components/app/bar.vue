@@ -20,5 +20,6 @@ header {
     .logo {
         @apply text-primary font-bold;
     }
+
 }
 </style>
