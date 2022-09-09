@@ -8,10 +8,5 @@
     </div>
 </template>
 
-<style lang="scss" scoped>
-main {
-    @apply
-        p-2
-    ;
-}    
+<style lang="scss" scoped> 
 </style>
