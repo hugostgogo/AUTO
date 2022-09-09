@@ -8,7 +8,7 @@
             APP
         </div>
         <div class="rightSide">
-            Right
+            <AppMenu />
         </div>
     </header>
 </template>
