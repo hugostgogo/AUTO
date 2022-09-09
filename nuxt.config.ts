@@ -16,5 +16,7 @@ export default defineNuxtConfig({
   },
   buildModules: [
     '~/modules/material-design-icons.js'
-  ]
+  ],
+    
+
 });

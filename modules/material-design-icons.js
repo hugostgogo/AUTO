@@ -1,6 +1,6 @@
 import { resolve } from 'path'
 
-const icons = ['Menu', 'Close']
+const icons = ['Menu', 'Close','MoonWaningCrescent','CogOutline']
 
 export default function () {
 	this.nuxt.hook('components:dirs', (dirs) => {
