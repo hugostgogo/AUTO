@@ -11,7 +11,7 @@ const Drawer = reactive({
     state: false,
     items: [
         {
-            text: 'Home',
+            text: 'Hom',
             icon: Home,
             path: '/'
         }, {
